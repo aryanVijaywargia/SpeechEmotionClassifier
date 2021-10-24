@@ -1,4 +1,4 @@
-This is a speech emotion recognition model creation and application repo. It will allow you to train a modular MLP model with the RAVDESS dataset, and then use that model with a flask application to predict the speech emotion of any .wav file. 
+This is a speech emotion recognition app. It will allow you to train a modular MLP model with the RAVDESS dataset, and then use that model with a flask application to predict the speech emotion of any .wav file. 
 
 
 ### REQS:
