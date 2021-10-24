@@ -1,0 +1,8 @@
+librosa 
+soundfile 
+numpy 
+sklearn 
+pyaudio 
+Flask
+werkzeug
+numba==0.48
